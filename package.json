@@ -1,0 +1,39 @@
+{
+  "name": "mail-using-gmail",
+  "version": "1.0.0",
+  "description": "A sample node module for send mail using nodemailer with Gmail",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subodhrathaur/node-mail-using-gmail.git"
+  },
+  "keywords": [
+    "mail",
+    "nodemailer",
+    "mail",
+    "using",
+    "gmail",
+    "send",
+    "mail",
+    "from",
+    "node",
+    "node",
+    "send",
+    "mail",
+    "from",
+    "gmail"
+  ],
+  "author": "Subodh Rathaur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subodhrathaur/node-mail-using-gmail/issues"
+  },
+  "homepage": "https://github.com/subodhrathaur/node-mail-using-gmail#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemailer": "^6.7.2"
+  }
+}
